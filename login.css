@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    background-color: blue;
+}
+
+#main-window-logIn {
+    border-width: 3px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 300px;
+    left: 1000px;
+    height: 1000px;
+    width: 800px;
+    padding-left: 90px;
+    padding-bottom: 90px;
+    border-radius: 20px;
+}
+
+#heading-login {
+    text-align: center;
+    position: relative;
+    right: 50px;
+    font-size: 50px;
+    color: rgb(4, 4, 149);
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#userTxt {
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+}
+
+#inputUser {
+    position: relative;
+    top: 50px;
+    height: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 680px;
+}
+
+#inputPassword {
+    position: relative;
+    top: 50px;
+    height: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 680px;
+}
+
+#passwordTxt {
+    position: relative;
+    font-size: 30px;
+    top: 50px;
+}
+
+#forget {
+    position: relative;
+    top: 89px;
+}
+
+#Sign-in {
+    position: relative;
+    top: 140px;
+    width: 680px;
+    height: 70px;
+    border-radius: 30px;
+    background-color: rgb(4, 4, 149);
+    color: white;
+    border: none;
+    border-style: solid;
+    font-size: 13px;
+}
+
+#dont-have-account {
+    position: relative;
+    top: 220px;
+    left: 220px;
+}
+
+#sign-up-loginPage {
+    position: relative;
+    top: 180px;
+    left: 400px;
+}
